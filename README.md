@@ -22,8 +22,8 @@
 
 
 ### 🏃🏻 Activites
-* **Google Developer Student Clubs in SCH Univ. (2021-2022)**
 * **SCH Univ. IPL Lab (2019 ~ 2023)**
+* **Google Developer Student Clubs in SCH Univ. (2021-2022)**
 
 
 <br></br>
