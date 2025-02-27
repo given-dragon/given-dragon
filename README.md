@@ -24,7 +24,7 @@
 ### 🏃🏻 Activities
 * **Univ. IPL Lab (2019 ~ 2023)**
 * **Google Developer Student Clubs (2021-2022)**
-* **SSAFY (2024-ing)**
+* **SSAFY (2024-2025)**
 
 
 <br></br>
