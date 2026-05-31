@@ -28,7 +28,7 @@
 
 
 <br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=given-dragon&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=given-dragon&show_icons=true&theme=merko)
 
 <!--
 **given-dragon/given-dragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
